@@ -1,2 +1,2 @@
-# blog
+# MR's Cyber Blog
 MRCyberBlog
